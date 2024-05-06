@@ -2,7 +2,7 @@
 This folder will contain WordPress newspaper (thenewsnavigator)
 
 
-Project Name:Newspaper WordPress Theme by Team6
+**Project Name**:Newspaper WordPress Theme by Team6
 
 
 Description:
