@@ -25,8 +25,14 @@ Technologies used:
 
 
 CMS:WordPress
+
+
 DataBase:PHP Myadmin,SOL
+
+
 Theme:thenewsnavigator
+
+
 Host:Localhost
 
 
@@ -34,11 +40,23 @@ Group members:
 
 
  NAMES                       REG Numbers
+
+ 
 INEZA Migambi	               223009451
+
+
 IRADUKUNDA NIGANZE Cynthia	 223014732
+
+
 KAYUMBA TETA Aela Greta	     223009758
+
+
 NIYOMUGABO BYIZA Bryan	     223006749
+
+
 UMUHOZA Ernestine	           223008950
+
+
 NIYONKURU Jean D’Amour 	     223016840
 
 
