@@ -5,7 +5,7 @@ This folder will contain WordPress newspaper (thenewsnavigator)
 **Project Name:** Newspaper WordPress Theme by Team6
 
 
-**Description:**
+## **Description:**
 
 
 Welcome to the Newspaper WordPress theme developed by Team6! 
@@ -13,7 +13,7 @@ This theme is designed to provide a modern and intuitive platform for publishing
 With a focus on user experience and flexibility, our theme offers a range of customizable features to suit your publishing needs. 
 
 
-**Key Features:**
+## **Key Features:**
 
 
 1.Responsive design for seamless viewing on all devices.
@@ -31,10 +31,10 @@ With a focus on user experience and flexibility, our theme offers a range of cus
 5.Integration with popular WordPress plugins for extended functionality.
 
 
-**License:** MIT License
+## **License:** MIT License
 
 
-**Technologies used:**
+## **Technologies used:**
 
 
 **CMS:** WordPress
@@ -52,7 +52,7 @@ With a focus on user experience and flexibility, our theme offers a range of cus
 **Group members:** 
 
 
-**Names and reg numbers**
+## **Names and reg numbers**
 
  
 INEZA Migambi	               223009451
@@ -76,7 +76,7 @@ NIYONKURU Jean D’Amour 	     223016840
 
     
 
-**Feedback & Contributions:**
+## **Feedback & Contributions:**
 
 
 We welcome feedback and contributions from the community! If you encounter any issues, have suggestions for improvements, or would like to contribute code, please feel free to open an issue or submit a pull request.
