@@ -31,7 +31,7 @@ With a focus on user experience and flexibility, our theme offers a range of cus
 5.Integration with popular WordPress plugins for extended functionality.
 
 
-**Contributors:** All members contributed to this project!
+## **Contributors:** All members contributed to this project!
 
 
 ## **License:** MIT License
