@@ -52,14 +52,16 @@ With a focus on user experience and flexibility, our theme offers a range of cus
 **Group members:** 
 
 
-## | No | Names | Reg Number |
+# Group members  
+
+| No | Names | Reg Number |
 | -------- | -------- | -------- |
-| 1   | INEZA Migambi   | 223009451   |
-| 2   |   IRADUKUNDA NIGANZE Cynthia |223014732 |
-| 3   | KAYUMBA TETA Aela Greta  | 223009758   |
-| 4   | NIYOMUGABO BYIZA Bryan   | 223006749   |
-| 5   | UMUHOZA Ernestine   | 223008950 |
-| 6   | NIYONKURU Jean D’Amour    | 223016840  |
+| 1   | Bonheur IRAGUHA   | 223006806   |
+| 2   | INEZA Nadege   | 223010131   |
+| 3   | UMUMARARUNGU Nadia   | 223012252   |
+| 4   | ISIMWE Emmanuel   | 223020753   |
+| 5   | TETA Deborah   | 223000947  |
+| 6   | WAMAHIRWE Francine   | 222023570  |
  
 
 
