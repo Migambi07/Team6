@@ -52,7 +52,7 @@ With a focus on user experience and flexibility, our theme offers a range of cus
 **Group members:** 
 
 
-**NAMES**                       **REG Numbers**
+**Names and reg numbers**
 
  
 INEZA Migambi	               223009451
