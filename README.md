@@ -24,14 +24,13 @@ Integration with popular WordPress plugins for extended functionality.
 Technologies used:
 
 
-    CMS: wordpress
-    Database: PHP Myadmin, SQL
-    Theme: thenewsnavigator
-    Main plagin: Elementor
-    Host: Localhost
-    
+CMS:WordPress
+DataBase:PHP Myadmin,SOL
+Theme:thenewsnavigator
+Host:Localhost
 
-    Group members:
+
+Group members:
 
 
  NAMES                       REG Numbers
