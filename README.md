@@ -15,11 +15,24 @@ With a focus on user experience and flexibility, our theme offers a range of cus
 
 Key Features:
 
-Responsive design for seamless viewing on all devices.
-Customizable layout options to showcase your content effectively.
-Built-in support for multimedia content including images, videos, and galleries.
-Optimized for search engines to enhance discoverability.
-Integration with popular WordPress plugins for extended functionality.
+
+1.Responsive design for seamless viewing on all devices.
+
+
+2.Customizable layout options to showcase your content effectively.
+
+
+3.Built-in support for multimedia content including images, videos, and galleries.
+
+
+4.Optimized for search engines to enhance discoverability.
+
+
+5.Integration with popular WordPress plugins for extended functionality.
+
+
+License:MIT License
+
 
 Technologies used:
 
