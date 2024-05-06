@@ -69,6 +69,12 @@ Feedback & Contributions:
 We welcome feedback and contributions from the community! If you encounter any issues, have suggestions for improvements, or would like to contribute code, please feel free to open an issue or submit a pull request.
 
 
+Contact Us:
+For further inquiries or support, please contact Team6 Leader's Email Address:inezamigambi@gmail.com
+
+
+
+
 
 
 
