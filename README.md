@@ -52,7 +52,7 @@ With a focus on user experience and flexibility, our theme offers a range of cus
 **Group members:** 
 
 
-## | No | Names | Reg Number |** 
+## | No | Names | Reg Number |
 | -------- | -------- | -------- |
 | 1   | INEZA Migambi   | 223009451   |
 | 2   |   IRADUKUNDA NIGANZE Cynthia |223014732 |
